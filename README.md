@@ -25,3 +25,33 @@ NyaySetu is a dedicated platform designed to democratize legal access through in
 ## Getting Started
 
 Visit our platform and experience legal guidance like never before. NyaySetu is committed to making legal information accessible, understandable, and user-friendly for everyone.
+
+## Screenshots
+
+### Login
+
+![login-page](https://github.com/NyayaSetu-SIH/.github/assets/81777768/0cd2b766-f034-4003-9e25-35d43da05089)
+
+### Dashboard
+
+![Dashboard](https://github.com/NyayaSetu-SIH/.github/assets/81777768/675249df-17e0-4e03-8c72-2e950b71a24e)
+
+### CHAT
+
+![chat-english](https://github.com/NyayaSetu-SIH/.github/assets/81777768/32ee2ec8-15fa-4e66-be77-15e7cad2dbbc)
+
+![chat-hindi](https://github.com/NyayaSetu-SIH/.github/assets/81777768/d6335129-14e7-4fd7-87fa-c282a8b98bdb)
+
+### Legal Check
+
+![text-summariser](https://github.com/NyayaSetu-SIH/.github/assets/81777768/79b5fa31-34d6-42a9-8815-c2123333da55)
+
+### Faq
+
+![faq](https://github.com/NyayaSetu-SIH/.github/assets/81777768/7355b277-4ff7-489a-9904-f2fbde005a77)
+
+
+## Tutorial
+
+https://github.com/NyayaSetu-SIH/.github/assets/81777768/9fe845b8-ac68-4696-822e-b881f4b7d505
+
